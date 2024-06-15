@@ -1,0 +1,25 @@
+{
+  "ModId": "gbfr.model.weaponSwap",
+  "ModName": "Weapon Swap Utility",
+  "ModAuthor": "Hazelberry, Nenkai",
+  "ModVersion": "1.2.1",
+  "ModDescription": "Choose which models to use for any weapons. Keep in mind glow effects may not line up with other models, such as with Tweyen's bows. (Use 'Configure' on this mod to configure effects)",
+  "ModDll": "gbfr.model.weaponSwap.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/gbfr.model.weaponSwap.dll",
+  "ModR2RManagedDll64": "x64/gbfr.model.weaponSwap.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "gbfr.model.weaponSwap.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "gbfrelink.utility.manager"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "granblue_fantasy_relink.exe"
+  ],
+  "ProjectUrl": ""
+}
