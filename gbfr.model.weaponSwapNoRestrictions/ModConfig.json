@@ -1,0 +1,25 @@
+{
+  "ModId": "gbfr.model.weaponSwapNoRestrictions",
+  "ModName": "Weapon Swap Utility - No Character Restrictions",
+  "ModAuthor": "Hazelberry, Nenkai",
+  "ModVersion": "1.2.1",
+  "ModDescription": "Choose which models to use for any weapons, including weapons from other characters. Keep in mind glow effects may not line up with other models, such as with Tweyen's bows, and that weapons from other characters WILL look strange 99% of the time. (Use 'Configure' on this mod to configure effects)",
+  "ModDll": "gbfr.model.weaponSwapNoRestrictions.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/gbfr.model.weaponSwapNoRestrictions.dll",
+  "ModR2RManagedDll64": "x64/gbfr.model.weaponSwapNoRestrictions.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "gbfr.model.weaponSwapNoRestrictions.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "gbfrelink.utility.manager"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "granblue_fantasy_relink.exe"
+  ],
+  "ProjectUrl": ""
+}
